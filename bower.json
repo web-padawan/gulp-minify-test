@@ -1,0 +1,6 @@
+{
+  "name": "test",
+  "dependencies": {
+    "vaadin-control-state-mixin": "2.1.0"
+  }
+}

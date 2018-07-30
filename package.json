@@ -1,0 +1,15 @@
+{
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-cli": "^2.0.1",
+    "gulp-if": "^2.0.2",
+    "gulp-uglify": "^3.0.1",
+    "merge-stream": "^1.0.1",
+    "polymer-build": "^3.0.4",
+    "pump": "^3.0.0",
+    "uglify-es": "^3.3.9"
+  },
+  "scripts": {
+    "start": "gulp"
+  }
+}
